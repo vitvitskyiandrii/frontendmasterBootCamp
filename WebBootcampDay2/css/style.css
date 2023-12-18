@@ -23,3 +23,33 @@ blockquote {
 cite {
     font-size: 1.7rem;
 }
+
+.bigbold {
+    font-weight: bold;
+    font-size: 1.3rem;
+    line-height: 10rem;
+    color: #d74f25;
+    text-decoration: dotted;
+}
+
+a:link {
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(46, 13, 13);
+}
+
+a:visited {
+    color: green;
+    font-size: 2rem;
+    font-weight: normal;
+}
+
+a:hover {
+    color: orange;
+    text-decoration: underline;
+    background-color: white;
+}
+
+a.harvard:link {
+    color: maroon;
+}
