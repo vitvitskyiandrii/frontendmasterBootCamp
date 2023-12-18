@@ -53,3 +53,11 @@ ul a:hover {
 a.harvard:link {
     color: maroon;
 }
+
+p2, p3 {
+    color: purple;
+}
+
+#myid {
+    color: orange;
+}
