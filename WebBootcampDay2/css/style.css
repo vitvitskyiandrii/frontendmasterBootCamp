@@ -32,19 +32,19 @@ cite {
     text-decoration: dotted;
 }
 
-a:link {
+ul a:link {
     font-weight: bold;
     text-decoration: none;
     color: rgb(46, 13, 13);
 }
 
-a:visited {
+ul a:visited {
     color: green;
     font-size: 2rem;
     font-weight: normal;
 }
 
-a:hover {
+ul a:hover {
     color: orange;
     text-decoration: underline;
     background-color: white;
